@@ -4,7 +4,7 @@ A clean, modern, institutional-style data analytics dashboard built with **Next.
 
 Designed with a soft **Sage Green** color theme for a professional and calm look.
 
-**Live Demo:** (add your Vercel link after deployment)
+**Live Demo:** [https://aether-dashboard-gules.vercel.app](https://aether-dashboard-gules.vercel.app)
 
 ---
 
@@ -51,34 +51,12 @@ Designed with a soft **Sage Green** color theme for a professional and calm look
 ### Getting Started
 
 ```bash
-# 1. Install dependencies
+# 1. Clone the repository
+git clone https://github.com/bia-studio18/Aether-Dashboard.git
+cd Aether-Dashboard
+
+# 2. Install dependencies
 npm install
 
-# 2. Run the development server
+# 3. Run the development server
 npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
-### Deploy on Vercel
-
-1. Push this repository to GitHub
-2. Go to [vercel.com](https://vercel.com) → New Project
-3. Import the repository
-4. Click **Deploy**
-
----
-
-### Author
-
-**Tasbiha Shahzaib**  
-Frontend Developer
-
-- GitHub: [bia-studio18](https://github.com/bia-studio18)
-- Portfolio: [Personal Portfolio](https://bia-studio18.github.io/Personal-portfolio/)
-
----
-
-Built with care for clean interfaces and data products.
